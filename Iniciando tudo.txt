@@ -1,0 +1,18 @@
+npm install -g @angular/cli
+ng new [nome projeto]
+ng server
+
+
+Exemplo
+
+
+npm install -g @angular/cli
+cd Projeto
+ng new introducao-angularDIO
+cd introducao-angularDIO
+ng server
+
+
+porta 4200
+
+http://localhost:4200/
