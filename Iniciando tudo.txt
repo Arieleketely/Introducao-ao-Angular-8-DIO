@@ -1,6 +1,6 @@
 npm install -g @angular/cli
 ng new [nome projeto]
-ng server
+ng serve
 
 
 Exemplo
@@ -10,9 +10,17 @@ npm install -g @angular/cli
 cd Projeto
 ng new introducao-angularDIO
 cd introducao-angularDIO
-ng server
+ng serve
 
 
 porta 4200
 
 http://localhost:4200/
+
+
+
+npm install -g @angular/cli
+cd Projeto
+ng new novo-angular
+cd novo-angular
+ng serve
